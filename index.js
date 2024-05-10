@@ -33,7 +33,7 @@ process.argv.forEach(function (val, index, array) {
 });
 
 if (exit) {
-    return;
+    process.exit(0);
 }
 
 // If out or src are relative, append the current execution folder to them
