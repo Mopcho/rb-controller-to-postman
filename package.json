@@ -1,0 +1,15 @@
+{
+  "name": "rb-controller-to-postman",
+  "version": "1.0.0",
+  "description": "Converts a folder full of ruby controllers to a postman.json file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ruby",
+    "postman"
+  ],
+  "author": "",
+  "license": "ISC"
+}
